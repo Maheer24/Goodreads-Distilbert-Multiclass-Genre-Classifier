@@ -4,7 +4,6 @@ import torch
 import re
 from bs4 import BeautifulSoup
 
-#model_path = "C:/Users/HP/Downloads/model_checkpoint_62/content/results/checkpoint-1400"
 model_path = "maheer24/distilbert-genre-classification"
 
 try:
